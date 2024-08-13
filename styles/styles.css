@@ -6,3 +6,13 @@ h2{
     height : 10px;
     width:500x
 }
+
+
+.homeImg {
+    height: 300px;
+    width: 600px;
+    border-radius: 50px;
+    margin: 30px;
+    border: 10px;
+    box-shadow: 20px 20px 50px 50px rgb(138, 136, 136);
+  }
