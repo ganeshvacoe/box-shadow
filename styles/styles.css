@@ -24,3 +24,12 @@ h2{
     border: 10px;
 
   }
+  #homeButton{
+    height: 50px;
+    width: 160px;
+    margin: 5px;
+    border: 10px;
+    color: aliceblue;
+    background-color:brown;
+
+  }
