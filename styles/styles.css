@@ -33,3 +33,14 @@ h2{
     background-color:brown;
 
   }
+  
+  
+  .buyButton:hover {
+    border-radius: 20px;
+    transition: 2s;
+  }
+
+  .sellButton:hover {
+    border-radius: 20px;
+    transition: 2s;
+  }
